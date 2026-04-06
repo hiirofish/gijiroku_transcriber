@@ -1,0 +1,9 @@
+# すべて無視
+*
+
+# スクリプトとドキュメントのみ追跡
+!README.md
+!run.py
+!divide_voice.py
+!transcribe_test.py
+!.gitignore
